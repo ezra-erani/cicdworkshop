@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "922351970957",
+    "project_id": "cicdworkshop-ca7bb",
+    "storage_bucket": "cicdworkshop-ca7bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922351970957:android:88420439a1d2839c87d0c4",
+        "android_client_info": {
+          "package_name": "com.ezraerani.helloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922351970957-ghd8m57li32bdnum77t4dic0prbtgbc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp0cIih2OqqdP6B2njTIsOWY-a2MuPYQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922351970957-ghd8m57li32bdnum77t4dic0prbtgbc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
